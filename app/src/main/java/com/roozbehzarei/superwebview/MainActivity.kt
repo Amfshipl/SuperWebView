@@ -37,7 +37,7 @@ import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 import com.roozbehzarei.superwebview.ui.theme.SuperWebViewTheme
 
-private const val WEBSITE = "https://roozbehzarei.com"
+private const val WEBSITE = "https://apcer-iso.org"
 
 /**
  * Main activity of the application.
